@@ -476,5 +476,8 @@ class ClientsContacts20220530000535 extends Version
     public function down()
     {
         //your code ...
+        $helper = $this->getHelperManager();
+
+        $helper->Iblock()->deleteIblockIfExists('contacts');
     }
 }

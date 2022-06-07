@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items iblockUid="catalog:clothes" exchangeVersion="2"><item>
+<field name="SORT"><value>500</value></field>
+<field name="NAME"><value>Подарок</value></field>
+<field name="CODE"><value>podarok</value></field>
+<field name="XML_ID"><value>320</value></field>
+<field name="IBLOCK_SECTION"><value>Футболки|1</value></field>
+</item></items>

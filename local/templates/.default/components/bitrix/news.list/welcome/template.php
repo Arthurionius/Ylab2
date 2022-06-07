@@ -39,6 +39,24 @@ if (!defined("B_PROLOG_INCLUDED") || B_PROLOG_INCLUDED !== true) {
                     echo $item['NAME'] . ": " . $item['VALUE'] . "<br>";
                 }
             }
-        }
+        }        
     ?>
+
+    <br><br>
+
+    <?php foreach ($arResult['ITEMS'] as $arItem) { ?>
+        <p class="news-item">
+            Фамилия: <?= $arItem['PROPERTIES']['NAME']['VALUE'] ?>
+            <br>
+            Имя: <?= $arItem['PROPERTIES']['LASTNAME']['VALUE'] ?>
+            <br>
+            Отчество: <?= $arItem['PROPERTIES']['FATHER_NAME']['VALUE'] ?>
+            <br>
+            (тел. <?= $arItem['PROPERTIES']['NUMBER']['VALUE'] ?>)
+            <br>
+        </p>
+        <p class="news-item">
+            Адрес клиента: 
+        </p>
+    <?php } ?>
 </div>
