@@ -1,0 +1,70 @@
+Host: bitrix.market
+Date: 2022-06-21 13:17:51
+Module: 
+Запись с кодом 335 добавлена.ПУТЬ: D:/OpenServer/domains/bitrix.market/local/log/log.txt
+    OnAfterIBlockElementAddHandler < ExecuteModuleEventEx < CAllIBlockElement::Add < require
+	D:\OpenServer\domains\bitrix.market\bitrix\modules\main\classes\general\module.php:465
+	D:\OpenServer\domains\bitrix.market\bitrix\modules\iblock\classes\general\iblockelement.php:3658
+	D:\OpenServer\domains\bitrix.market\bitrix\modules\iblock\admin\iblock_element_edit.php:1060
+	D:\OpenServer\domains\bitrix.market\bitrix\admin\iblock_element_edit.php:1
+----------
+Host: bitrix.market
+Date: 2022-06-21 13:23:16
+Module: 
+Запись с кодом 336 добавлена.
+    OnAfterIBlockElementAddHandler < ExecuteModuleEventEx < CAllIBlockElement::Add < require
+	D:\OpenServer\domains\bitrix.market\bitrix\modules\main\classes\general\module.php:465
+	D:\OpenServer\domains\bitrix.market\bitrix\modules\iblock\classes\general\iblockelement.php:3658
+	D:\OpenServer\domains\bitrix.market\bitrix\modules\iblock\admin\iblock_element_edit.php:1060
+	D:\OpenServer\domains\bitrix.market\bitrix\admin\iblock_element_edit.php:1
+----------
+Host: bitrix.market
+Date: 2022-06-21 13:24:32
+Module: 
+Запись с кодом 337 добавлена. Имя элемента: 
+    OnAfterIBlockElementAddHandler < ExecuteModuleEventEx < CAllIBlockElement::Add < require
+	D:\OpenServer\domains\bitrix.market\bitrix\modules\main\classes\general\module.php:465
+	D:\OpenServer\domains\bitrix.market\bitrix\modules\iblock\classes\general\iblockelement.php:3658
+	D:\OpenServer\domains\bitrix.market\bitrix\modules\iblock\admin\iblock_element_edit.php:1060
+	D:\OpenServer\domains\bitrix.market\bitrix\admin\iblock_element_edit.php:1
+----------
+Host: bitrix.market
+Date: 2022-06-21 13:25:25
+Module: 
+Ошибка добавления записи ().
+    OnAfterIBlockElementAddHandler < ExecuteModuleEventEx < CAllIBlockElement::Add < require
+	D:\OpenServer\domains\bitrix.market\bitrix\modules\main\classes\general\module.php:465
+	D:\OpenServer\domains\bitrix.market\bitrix\modules\iblock\classes\general\iblockelement.php:3658
+	D:\OpenServer\domains\bitrix.market\bitrix\modules\iblock\admin\iblock_element_edit.php:1060
+	D:\OpenServer\domains\bitrix.market\bitrix\admin\iblock_element_edit.php:1
+----------
+Host: bitrix.market
+Date: 2022-06-21 13:26:15
+Module: 
+Запись с кодом 339 добавлена. Имя элемента: 
+    OnAfterIBlockElementAddHandler < ExecuteModuleEventEx < CAllIBlockElement::Add < require
+	D:\OpenServer\domains\bitrix.market\bitrix\modules\main\classes\general\module.php:465
+	D:\OpenServer\domains\bitrix.market\bitrix\modules\iblock\classes\general\iblockelement.php:3658
+	D:\OpenServer\domains\bitrix.market\bitrix\modules\iblock\admin\iblock_element_edit.php:1060
+	D:\OpenServer\domains\bitrix.market\bitrix\admin\iblock_element_edit.php:1
+----------
+Host: bitrix.market
+Date: 2022-06-21 13:28:15
+Module: 
+Запись с кодом 340 добавлена. Имя элемента: Fwqfwer
+    OnAfterIBlockElementAddHandler < ExecuteModuleEventEx < CAllIBlockElement::Add < require
+	D:\OpenServer\domains\bitrix.market\bitrix\modules\main\classes\general\module.php:465
+	D:\OpenServer\domains\bitrix.market\bitrix\modules\iblock\classes\general\iblockelement.php:3658
+	D:\OpenServer\domains\bitrix.market\bitrix\modules\iblock\admin\iblock_element_edit.php:1060
+	D:\OpenServer\domains\bitrix.market\bitrix\admin\iblock_element_edit.php:1
+----------
+Host: bitrix.market
+Date: 2022-06-21 13:30:38
+Module: 
+Запись с кодом 341 добавлена. Имя элемента: Покровская г.Екб
+    OnAfterIBlockElementAddHandler < ExecuteModuleEventEx < CAllIBlockElement::Add < require
+	D:\OpenServer\domains\bitrix.market\bitrix\modules\main\classes\general\module.php:465
+	D:\OpenServer\domains\bitrix.market\bitrix\modules\iblock\classes\general\iblockelement.php:3658
+	D:\OpenServer\domains\bitrix.market\bitrix\modules\iblock\admin\iblock_element_edit.php:1060
+	D:\OpenServer\domains\bitrix.market\bitrix\admin\iblock_element_edit.php:1
+----------
